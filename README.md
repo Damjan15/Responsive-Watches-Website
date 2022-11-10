@@ -1,7 +1,7 @@
 # Responsive Watches Website
 This is a landing page for a store that sells watches. The landing page contains all the watches and their prices, also the watches that are on sale, and the watches that are new. You can see the testimonials and what people are saying about the products, and can also subscribe to the newsletters.
 
-**Link to project**: [https://loquacious-biscuit-0f70ed.netlify.app/]("https://loquacious-biscuit-0f70ed.netlify.app//")
+**Link to project**: [https://brilliant-shortbread-720a8a.netlify.app//]("https://brilliant-shortbread-720a8a.netlify.app///")
 
 ![project preview](preview.png)
 
